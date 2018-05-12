@@ -1,0 +1,24 @@
+_repo: The-Adventure-League_30554
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30554-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Skae, Hilda T.
+    gutenberg_agent_id: '26700'
+    url: http://www.gutenberg.org/2009/agents/26700
+description: ''
+gutenberg_issued: '2009-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30554'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Highlands (Scotland) -- Juvenile fiction'
+title: The Adventure League
+url: http://www.gutenberg.org/ebooks/30554
